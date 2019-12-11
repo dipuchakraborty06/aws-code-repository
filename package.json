@@ -1,0 +1,22 @@
+{
+  "name": "aws-nodejs-code-repository",
+  "version": "1.0.0",
+  "description": "aws-nodejs-code-repository",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dipuchakraborty06/aws-code-repository.git"
+  },
+  "author": "Dipankar Chakraborty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dipuchakraborty06/aws-code-repository/issues"
+  },
+  "homepage": "https://github.com/dipuchakraborty06/aws-code-repository#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
